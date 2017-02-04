@@ -1,0 +1,13 @@
+{
+  "name": "webcamp",
+  "version": "1.0.0",
+  "description": "Webcamp TP",
+  "main": "index.js",
+  "repository": {},
+  "author": "Florentin DUBOIS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1",
+    "node-fetch": "^1.6.3"
+  }
+}
